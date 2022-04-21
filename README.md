@@ -1,1 +1,2 @@
-# Team-4-ta13
+# TA13 - Model Relacional
+Team 4: Marc Nebot, Borja Montseny i Marc Padrell
