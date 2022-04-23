@@ -4,12 +4,15 @@ Team 4: Marc Nebot, Borja Montseny i Marc Padrell
 ## Ejercicios realizados por Borja: 1, 4 i 5
 
 **Ejercicio 1**
-
+<br>
+<img src="https://media.discordapp.net/attachments/967447351939702844/967540553065570344/unknown.png">
+<hr>
 **Ejercicio 4**
-
+<img src="https://cdn.discordapp.com/attachments/967447351939702844/967540613023162378/unknown.png">
+<hr>
 **Ejercicio 5**
 <br>
-![unknown](https://user-images.githubusercontent.com/68342939/164934070-5fc7b75a-e249-4628-a632-552bb2eb22c0.png)
+<img src="https://cdn.discordapp.com/attachments/967447351939702844/967541320644190288/unknown.png">
 <hr>
 ## Ejercicios realizados por Marc Nebot: 6 i 8
 
