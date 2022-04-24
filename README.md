@@ -10,7 +10,7 @@ Team 4: Marc Nebot, Borja Montseny i Marc Padrell
 
 **Ejercicio 4**
 
-<img src="https://user-images.githubusercontent.com/68342939/164982215-f7e99e17-0f58-4263-8ffb-5e7b91990546.png">
+<img src="https://user-images.githubusercontent.com/68342939/164982646-0929f35d-fb2a-42b8-a87e-3b8df9739b35.png">
 <hr>
 
 **Ejercicio 5**
